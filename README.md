@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/etheronechain/blockscout.git
-cd docker-compose
+cd blockscout/docker-compose/
 docker compose up -d
 ```
 
